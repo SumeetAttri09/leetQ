@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/SumeetAttri09/leetQ/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/SumeetAttri09/leetQ/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumeetAttri09/leetQ/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/SumeetAttri09/leetQ/tree/master/0387-first-unique-character-in-a-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/SumeetAttri09/leetQ/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/SumeetAttri09/leetQ/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
