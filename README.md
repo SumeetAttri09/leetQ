@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/SumeetAttri09/leetQ/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SumeetAttri09/leetQ/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/SumeetAttri09/leetQ/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumeetAttri09/leetQ/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/SumeetAttri09/leetQ/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SumeetAttri09/leetQ/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumeetAttri09/leetQ/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SumeetAttri09/leetQ/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/SumeetAttri09/leetQ/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/SumeetAttri09/leetQ/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
