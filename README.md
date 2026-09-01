@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SumeetAttri09/leetQ/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SumeetAttri09/leetQ/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SumeetAttri09/leetQ/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/SumeetAttri09/leetQ/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/SumeetAttri09/leetQ/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SumeetAttri09/leetQ/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SumeetAttri09/leetQ/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/SumeetAttri09/leetQ/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SumeetAttri09/leetQ/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/SumeetAttri09/leetQ/tree/master/0930-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SumeetAttri09/leetQ/tree/master/0219-contains-duplicate-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/SumeetAttri09/leetQ/tree/master/0930-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SumeetAttri09/leetQ/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SumeetAttri09/leetQ/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SumeetAttri09/leetQ/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/SumeetAttri09/leetQ/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/SumeetAttri09/leetQ/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SumeetAttri09/leetQ/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
