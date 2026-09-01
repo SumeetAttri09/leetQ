@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SumeetAttri09/leetQ/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SumeetAttri09/leetQ/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/SumeetAttri09/leetQ/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SumeetAttri09/leetQ/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/SumeetAttri09/leetQ/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SumeetAttri09/leetQ/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SumeetAttri09/leetQ/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SumeetAttri09/leetQ/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SumeetAttri09/leetQ/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SumeetAttri09/leetQ/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SumeetAttri09/leetQ/tree/master/0202-happy-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SumeetAttri09/leetQ/tree/master/1248-count-number-of-nice-subarrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SumeetAttri09/leetQ/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/SumeetAttri09/leetQ/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SumeetAttri09/leetQ/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SumeetAttri09/leetQ/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SumeetAttri09/leetQ/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/SumeetAttri09/leetQ/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SumeetAttri09/leetQ/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/SumeetAttri09/leetQ/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SumeetAttri09/leetQ/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
