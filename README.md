@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SumeetAttri09/leetQ/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SumeetAttri09/leetQ/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SumeetAttri09/leetQ/tree/master/0724-find-pivot-index) |
+| [0806-number-of-lines-to-write-string](https://github.com/SumeetAttri09/leetQ/tree/master/0806-number-of-lines-to-write-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/SumeetAttri09/leetQ/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SumeetAttri09/leetQ/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/SumeetAttri09/leetQ/tree/master/1480-running-sum-of-1d-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SumeetAttri09/leetQ/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/SumeetAttri09/leetQ/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SumeetAttri09/leetQ/tree/master/0451-sort-characters-by-frequency) |
+| [0806-number-of-lines-to-write-string](https://github.com/SumeetAttri09/leetQ/tree/master/0806-number-of-lines-to-write-string) |
 ## Queue
 |  |
 | ------- |
