@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SumeetAttri09/leetQ/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/SumeetAttri09/leetQ/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SumeetAttri09/leetQ/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SumeetAttri09/leetQ/tree/master/0349-intersection-of-two-arrays) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SumeetAttri09/leetQ/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/SumeetAttri09/leetQ/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/SumeetAttri09/leetQ/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SumeetAttri09/leetQ/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SumeetAttri09/leetQ/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/SumeetAttri09/leetQ/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SumeetAttri09/leetQ/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumeetAttri09/leetQ/tree/master/0350-intersection-of-two-arrays-ii) |
